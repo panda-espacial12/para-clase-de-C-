@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sentencia_if_else\sentencia_if_else\obj\Debug\sentencia_if_else.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sentencia_if_else\sentencia_if_else\obj\Debug\sentencia_if_else.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sentencia_if_else\sentencia_if_else\bin\Debug\sentencia_if_else.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sentencia_if_else\sentencia_if_else\bin\Debug\sentencia_if_else.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sentencia_if_else\sentencia_if_else\bin\Debug\sentencia_if_else.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sentencia_if_else\sentencia_if_else\obj\Debug\sentencia_if_else.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sentencia_if_else\sentencia_if_else\obj\Debug\sentencia_if_else.pdb

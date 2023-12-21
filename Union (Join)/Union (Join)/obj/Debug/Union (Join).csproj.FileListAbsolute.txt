@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Union (Join)\Union (Join)\bin\Debug\Union (Join).exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Union (Join)\Union (Join)\bin\Debug\Union (Join).exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Union (Join)\Union (Join)\bin\Debug\Union (Join).pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Union (Join)\Union (Join)\obj\Debug\Union (Join).csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Union (Join)\Union (Join)\obj\Debug\Union (Join).csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Union (Join)\Union (Join)\obj\Debug\Union (Join).exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Union (Join)\Union (Join)\obj\Debug\Union (Join).pdb

@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sentencia_if_else\sentencia_switch\bin\Debug\sentencia_switch.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sentencia_if_else\sentencia_switch\bin\Debug\sentencia_switch.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sentencia_if_else\sentencia_switch\bin\Debug\sentencia_switch.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sentencia_if_else\sentencia_switch\obj\Debug\sentencia_switch.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sentencia_if_else\sentencia_switch\obj\Debug\sentencia_switch.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sentencia_if_else\sentencia_switch\obj\Debug\sentencia_switch.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sentencia_if_else\sentencia_switch\obj\Debug\sentencia_switch.pdb

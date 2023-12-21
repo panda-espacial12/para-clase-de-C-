@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegados_con_parametros\delegados_con_parametros\bin\Debug\delegados_con_parametros.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegados_con_parametros\delegados_con_parametros\bin\Debug\delegados_con_parametros.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegados_con_parametros\delegados_con_parametros\bin\Debug\delegados_con_parametros.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegados_con_parametros\delegados_con_parametros\obj\Debug\delegados_con_parametros.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegados_con_parametros\delegados_con_parametros\obj\Debug\delegados_con_parametros.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegados_con_parametros\delegados_con_parametros\obj\Debug\delegados_con_parametros.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegados_con_parametros\delegados_con_parametros\obj\Debug\delegados_con_parametros.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Seleccionar, buscar y ordenar\Seleccionar, buscar y ordenar\bin\Debug\Seleccionar, buscar y ordenar.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Seleccionar, buscar y ordenar\Seleccionar, buscar y ordenar\bin\Debug\Seleccionar, buscar y ordenar.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Seleccionar, buscar y ordenar\Seleccionar, buscar y ordenar\bin\Debug\Seleccionar, buscar y ordenar.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Seleccionar, buscar y ordenar\Seleccionar, buscar y ordenar\obj\Debug\Seleccionar, buscar y ordenar.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Seleccionar, buscar y ordenar\Seleccionar, buscar y ordenar\obj\Debug\Seleccionar, buscar y ordenar.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Seleccionar, buscar y ordenar\Seleccionar, buscar y ordenar\obj\Debug\Seleccionar, buscar y ordenar.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Seleccionar, buscar y ordenar\Seleccionar, buscar y ordenar\obj\Debug\Seleccionar, buscar y ordenar.pdb

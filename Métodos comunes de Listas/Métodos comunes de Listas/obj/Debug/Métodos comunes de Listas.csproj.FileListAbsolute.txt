@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Métodos comunes de Listas\Métodos comunes de Listas\bin\Debug\Métodos comunes de Listas.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Métodos comunes de Listas\Métodos comunes de Listas\bin\Debug\Métodos comunes de Listas.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Métodos comunes de Listas\Métodos comunes de Listas\bin\Debug\Métodos comunes de Listas.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Métodos comunes de Listas\Métodos comunes de Listas\obj\Debug\Métodos comunes de Listas.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Métodos comunes de Listas\Métodos comunes de Listas\obj\Debug\Métodos comunes de Listas.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Métodos comunes de Listas\Métodos comunes de Listas\obj\Debug\Métodos comunes de Listas.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Métodos comunes de Listas\Métodos comunes de Listas\obj\Debug\Métodos comunes de Listas.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegado_generico_predicate(nueva clase)\delegado_generico_predicate(nueva clase)\obj\Debug\delegado_generico_predicate(nueva clase).csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegado_generico_predicate(nueva clase)\delegado_generico_predicate(nueva clase)\obj\Debug\delegado_generico_predicate(nueva clase).csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegado_generico_predicate(nueva clase)\delegado_generico_predicate(nueva clase)\bin\Debug\delegado_generico_predicate(nueva clase).exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegado_generico_predicate(nueva clase)\delegado_generico_predicate(nueva clase)\bin\Debug\delegado_generico_predicate(nueva clase).exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegado_generico_predicate(nueva clase)\delegado_generico_predicate(nueva clase)\bin\Debug\delegado_generico_predicate(nueva clase).pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegado_generico_predicate(nueva clase)\delegado_generico_predicate(nueva clase)\obj\Debug\delegado_generico_predicate(nueva clase).exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegado_generico_predicate(nueva clase)\delegado_generico_predicate(nueva clase)\obj\Debug\delegado_generico_predicate(nueva clase).pdb

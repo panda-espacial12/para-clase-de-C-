@@ -1,0 +1,2 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\propiedades\propiedades\obj\Debug\propiedades.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\propiedades\propiedades\obj\Debug\propiedades.csproj.CoreCompileInputs.cache

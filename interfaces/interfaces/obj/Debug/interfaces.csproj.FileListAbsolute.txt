@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\interfaces\interfaces\obj\Debug\interfaces.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\interfaces\interfaces\obj\Debug\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\interfaces\interfaces\bin\Debug\interfaces.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\interfaces\interfaces\bin\Debug\interfaces.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\interfaces\interfaces\bin\Debug\interfaces.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\interfaces\interfaces\obj\Debug\interfaces.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\interfaces\interfaces\obj\Debug\interfaces.pdb

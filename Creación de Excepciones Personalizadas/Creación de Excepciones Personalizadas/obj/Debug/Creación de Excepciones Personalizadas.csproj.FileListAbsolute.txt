@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Creación de Excepciones Personalizadas\Creación de Excepciones Personalizadas\bin\Debug\Creación de Excepciones Personalizadas.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Creación de Excepciones Personalizadas\Creación de Excepciones Personalizadas\bin\Debug\Creación de Excepciones Personalizadas.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Creación de Excepciones Personalizadas\Creación de Excepciones Personalizadas\bin\Debug\Creación de Excepciones Personalizadas.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Creación de Excepciones Personalizadas\Creación de Excepciones Personalizadas\obj\Debug\Creación de Excepciones Personalizadas.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Creación de Excepciones Personalizadas\Creación de Excepciones Personalizadas\obj\Debug\Creación de Excepciones Personalizadas.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Creación de Excepciones Personalizadas\Creación de Excepciones Personalizadas\obj\Debug\Creación de Excepciones Personalizadas.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Creación de Excepciones Personalizadas\Creación de Excepciones Personalizadas\obj\Debug\Creación de Excepciones Personalizadas.pdb

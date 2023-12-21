@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Sentencia Foreach\Sentencia Foreach\bin\Debug\Sentencia Foreach.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Sentencia Foreach\Sentencia Foreach\bin\Debug\Sentencia Foreach.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Sentencia Foreach\Sentencia Foreach\bin\Debug\Sentencia Foreach.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Sentencia Foreach\Sentencia Foreach\obj\Debug\Sentencia Foreach.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Sentencia Foreach\Sentencia Foreach\obj\Debug\Sentencia Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Sentencia Foreach\Sentencia Foreach\obj\Debug\Sentencia Foreach.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Sentencia Foreach\Sentencia Foreach\obj\Debug\Sentencia Foreach.pdb

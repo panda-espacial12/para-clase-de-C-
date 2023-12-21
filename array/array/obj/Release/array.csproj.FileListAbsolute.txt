@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\array\array\bin\Release\array.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\array\array\bin\Release\array.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\array\array\bin\Release\array.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\array\array\obj\Release\array.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\array\array\obj\Release\array.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\array\array\obj\Release\array.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\array\array\obj\Release\array.pdb

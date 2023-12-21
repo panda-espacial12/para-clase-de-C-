@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\for\for\bin\Debug\@for.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\for\for\bin\Debug\@for.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\for\for\bin\Debug\@for.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\for\for\obj\Debug\for.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\for\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\for\for\obj\Debug\@for.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\for\for\obj\Debug\@for.pdb

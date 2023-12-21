@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\listas\listas\bin\Debug\listas.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\listas\listas\bin\Debug\listas.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\listas\listas\bin\Debug\listas.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\listas\listas\obj\Debug\listas.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\listas\listas\obj\Debug\listas.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\listas\listas\obj\Debug\listas.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\listas\listas\obj\Debug\listas.pdb

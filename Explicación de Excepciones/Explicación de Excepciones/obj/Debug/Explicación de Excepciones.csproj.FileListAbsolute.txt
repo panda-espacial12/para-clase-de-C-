@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Explicación de Excepciones\Explicación de Excepciones\bin\Debug\Explicación de Excepciones.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Explicación de Excepciones\Explicación de Excepciones\bin\Debug\Explicación de Excepciones.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Explicación de Excepciones\Explicación de Excepciones\bin\Debug\Explicación de Excepciones.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Explicación de Excepciones\Explicación de Excepciones\obj\Debug\Explicación de Excepciones.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Explicación de Excepciones\Explicación de Excepciones\obj\Debug\Explicación de Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Explicación de Excepciones\Explicación de Excepciones\obj\Debug\Explicación de Excepciones.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Explicación de Excepciones\Explicación de Excepciones\obj\Debug\Explicación de Excepciones.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Generics\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Generics\Generics\obj\Debug\Generics.pdb

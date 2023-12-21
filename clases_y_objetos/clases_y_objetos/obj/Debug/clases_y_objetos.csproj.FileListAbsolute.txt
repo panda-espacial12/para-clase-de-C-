@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\clases_y_objetos\clases_y_objetos\bin\Debug\clases_y_objetos.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\clases_y_objetos\clases_y_objetos\bin\Debug\clases_y_objetos.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\clases_y_objetos\clases_y_objetos\bin\Debug\clases_y_objetos.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\clases_y_objetos\clases_y_objetos\obj\Debug\clases_y_objetos.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\clases_y_objetos\clases_y_objetos\obj\Debug\clases_y_objetos.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\clases_y_objetos\clases_y_objetos\obj\Debug\clases_y_objetos.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\clases_y_objetos\clases_y_objetos\obj\Debug\clases_y_objetos.pdb

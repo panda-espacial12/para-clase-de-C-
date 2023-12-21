@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegados\delegados\obj\Debug\delegados.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegados\delegados\obj\Debug\delegados.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegados\delegados\bin\Debug\delegados.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegados\delegados\bin\Debug\delegados.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegados\delegados\bin\Debug\delegados.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegados\delegados\obj\Debug\delegados.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegados\delegados\obj\Debug\delegados.pdb

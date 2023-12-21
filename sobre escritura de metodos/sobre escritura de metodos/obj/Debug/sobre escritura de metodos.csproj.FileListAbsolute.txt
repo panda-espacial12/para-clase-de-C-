@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sobre escritura de metodos\sobre escritura de metodos\obj\Debug\sobre escritura de metodos.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sobre escritura de metodos\sobre escritura de metodos\obj\Debug\sobre escritura de metodos.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sobre escritura de metodos\sobre escritura de metodos\bin\Debug\sobre escritura de metodos.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sobre escritura de metodos\sobre escritura de metodos\bin\Debug\sobre escritura de metodos.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sobre escritura de metodos\sobre escritura de metodos\bin\Debug\sobre escritura de metodos.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sobre escritura de metodos\sobre escritura de metodos\obj\Debug\sobre escritura de metodos.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\sobre escritura de metodos\sobre escritura de metodos\obj\Debug\sobre escritura de metodos.pdb

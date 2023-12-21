@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Tipos Anónimos\Tipos Anónimos\bin\Debug\Tipos Anónimos.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Tipos Anónimos\Tipos Anónimos\bin\Debug\Tipos Anónimos.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Tipos Anónimos\Tipos Anónimos\bin\Debug\Tipos Anónimos.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Tipos Anónimos\Tipos Anónimos\obj\Debug\Tipos Anónimos.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Tipos Anónimos\Tipos Anónimos\obj\Debug\Tipos Anónimos.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Tipos Anónimos\Tipos Anónimos\obj\Debug\Tipos Anónimos.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Tipos Anónimos\Tipos Anónimos\obj\Debug\Tipos Anónimos.pdb

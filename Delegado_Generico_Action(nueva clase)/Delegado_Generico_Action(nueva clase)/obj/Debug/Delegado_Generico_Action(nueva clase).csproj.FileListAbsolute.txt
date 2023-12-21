@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Delegado_Generico_Action(nueva clase)\Delegado_Generico_Action(nueva clase)\bin\Debug\Delegado_Generico_Action(nueva clase).exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Delegado_Generico_Action(nueva clase)\Delegado_Generico_Action(nueva clase)\bin\Debug\Delegado_Generico_Action(nueva clase).exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Delegado_Generico_Action(nueva clase)\Delegado_Generico_Action(nueva clase)\bin\Debug\Delegado_Generico_Action(nueva clase).pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Delegado_Generico_Action(nueva clase)\Delegado_Generico_Action(nueva clase)\obj\Debug\Delegado_Generico_Action(nueva clase).csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Delegado_Generico_Action(nueva clase)\Delegado_Generico_Action(nueva clase)\obj\Debug\Delegado_Generico_Action(nueva clase).csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Delegado_Generico_Action(nueva clase)\Delegado_Generico_Action(nueva clase)\obj\Debug\Delegado_Generico_Action(nueva clase).exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Delegado_Generico_Action(nueva clase)\Delegado_Generico_Action(nueva clase)\obj\Debug\Delegado_Generico_Action(nueva clase).pdb

@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\arreglos\arreglos\bin\Debug\arreglos.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\arreglos\arreglos\bin\Debug\arreglos.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\arreglos\arreglos\bin\Debug\arreglos.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\arreglos\arreglos\obj\Debug\arreglos.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\arreglos\arreglos\obj\Debug\arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\arreglos\arreglos\obj\Debug\arreglos.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\arreglos\arreglos\obj\Debug\arreglos.pdb

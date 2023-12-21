@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Tuplas\Tuplas\bin\Debug\Tuplas.exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Tuplas\Tuplas\bin\Debug\Tuplas.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Tuplas\Tuplas\bin\Debug\Tuplas.pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Tuplas\Tuplas\obj\Debug\Tuplas.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Tuplas\Tuplas\obj\Debug\Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Tuplas\Tuplas\obj\Debug\Tuplas.exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\Tuplas\Tuplas\obj\Debug\Tuplas.pdb

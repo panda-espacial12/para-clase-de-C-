@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegado generico func(nueva clase)\delegado generico func(nueva clase)\bin\Debug\delegado generico func(nueva clase).exe.config
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegado generico func(nueva clase)\delegado generico func(nueva clase)\bin\Debug\delegado generico func(nueva clase).exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegado generico func(nueva clase)\delegado generico func(nueva clase)\bin\Debug\delegado generico func(nueva clase).pdb
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegado generico func(nueva clase)\delegado generico func(nueva clase)\obj\Debug\delegado generico func(nueva clase).csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegado generico func(nueva clase)\delegado generico func(nueva clase)\obj\Debug\delegado generico func(nueva clase).csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegado generico func(nueva clase)\delegado generico func(nueva clase)\obj\Debug\delegado generico func(nueva clase).exe
+C:\Users\Alex\Desktop\practica  html css python linux etc\c#\delegado generico func(nueva clase)\delegado generico func(nueva clase)\obj\Debug\delegado generico func(nueva clase).pdb
